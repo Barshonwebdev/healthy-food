@@ -1,0 +1,20 @@
+.top-section{
+    display: flex;
+    padding: 5%;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.header-text{
+    padding: 5%;
+}
+
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
