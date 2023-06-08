@@ -11,7 +11,7 @@
     padding: 5%;
 }
 
-.order-button{
+.button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     color: white;
@@ -22,3 +22,15 @@
 .top-pic{
     width: 90%;
 }
+
+.banner-section{
+    background-image: url(./images/shapes/7.png);
+    display: flex;
+    padding: 5%;
+}
+
+.mid-text{
+    padding: 5%;
+    color: gray;
+}
+
