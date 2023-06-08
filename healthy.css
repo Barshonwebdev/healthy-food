@@ -57,3 +57,24 @@
     margin-right: auto;
     display: block;
 }
+
+.stat-card{
+    display: flex;
+    border: 2px rgb(228, 226, 226) solid;
+    border-radius: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 30px 30px 30px rgb(207, 206, 206);
+}
+
+.stats{
+    width: 33%;
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+}
+
+.stat-section{
+    padding-left: 5%;
+    padding-right: 9%;
+}
